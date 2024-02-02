@@ -3,9 +3,6 @@
 ## Description
 "Connect-The-Dots-Travel" is an interactive web application designed to solve the Traveling Salesman Problem using Dijkstra's algorithm. Users can add cities to a map and visually explore the shortest path between them, making it a perfect tool for educational purposes and route planning enthusiasts.
 
-## Live Demo
-[Check out the live demo here](YourLiveDemoLink)
-
 ## Technologies Used
 - React
 - Dijkstra's Algorithm
