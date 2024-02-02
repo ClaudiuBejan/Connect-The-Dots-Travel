@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Connect-The-Dots-Travel/static/css/main.e06d8578.css",
+    "main.js": "/Connect-The-Dots-Travel/static/js/main.80f976d6.js",
+    "static/js/592.214edcb1.chunk.js": "/Connect-The-Dots-Travel/static/js/592.214edcb1.chunk.js",
+    "static/media/Endless-Constellation.svg": "/Connect-The-Dots-Travel/static/media/Endless-Constellation.719c19e1ec9e2ae87305.svg",
+    "index.html": "/Connect-The-Dots-Travel/index.html",
+    "main.e06d8578.css.map": "/Connect-The-Dots-Travel/static/css/main.e06d8578.css.map",
+    "main.80f976d6.js.map": "/Connect-The-Dots-Travel/static/js/main.80f976d6.js.map",
+    "592.214edcb1.chunk.js.map": "/Connect-The-Dots-Travel/static/js/592.214edcb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06d8578.css",
+    "static/js/main.80f976d6.js"
+  ]
+}
