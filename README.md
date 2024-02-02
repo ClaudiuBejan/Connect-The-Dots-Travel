@@ -19,7 +19,7 @@
 Click on the canvas to add cities and then click "Calculate Path" to see the shortest route between your selected points.
 
 ## Credits
-Developed by [YourName], following courses by Colt Steele and Jonas Schmedtmann on Udemy.
+Developed by Claudiu Bejan, following courses by Colt Steele and Jonas Schmedtmann on Udemy.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
